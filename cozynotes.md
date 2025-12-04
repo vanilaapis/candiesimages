@@ -7,3 +7,5 @@
 
 
 <img width="1431" height="2946" alt="gray-dotted-grid-background" src="https://github.com/user-attachments/assets/3f020771-9a9e-4ff1-afb4-79c5b360425f" />
+
+<img width="1431" height="2946" alt="nice-dotted-grid-background" src="https://github.com/user-attachments/assets/ce07d991-098a-4e14-a759-ecbb0c159b6b" />
