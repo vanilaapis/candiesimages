@@ -6,3 +6,5 @@
 <img width="906" height="1200" alt="four" src="https://github.com/user-attachments/assets/70cd0677-a46d-4816-975b-28fe9d192a72" />
 <img width="640" height="850" alt="five" src="https://github.com/user-attachments/assets/441796bf-4fdd-4feb-9cf0-b8c1b5d33129" />
 <img width="640" height="640" alt="eight" src="https://github.com/user-attachments/assets/1c786744-a3fb-4c61-ad7e-b1e601efc248" />
+
+![Stylish Wool Coat Close-Up](https://github.com/user-attachments/assets/d0046c75-dd8d-4fd8-9826-f72027f5a0e3)
