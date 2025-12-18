@@ -1,3 +1,10 @@
+## thumbnails
+
+
+<img width="2268" height="1473" alt="sproutsy-home-page-ui" src="https://github.com/user-attachments/assets/99ac1836-9c38-40c5-832e-74f5a42864b0" />
+
+
+
 ![eight](https://github.com/user-attachments/assets/e39c094e-4fb6-429f-bf9a-18a1fd578171)
 
 ![thirteen](https://github.com/user-attachments/assets/3bd7bb14-692f-488a-939e-bdc581d906be)
