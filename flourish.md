@@ -1,3 +1,9 @@
+## thumbnail 
+
+<img width="1248" height="631" alt="image" src="https://github.com/user-attachments/assets/bfe2e1b6-add6-4abf-be08-23af52b2819a" />
+
+
+
 <img width="1440" height="2560" alt="search" src="https://github.com/user-attachments/assets/50324c62-8667-44a1-b7f2-419961ba0486" />
 <img width="1440" height="2560" alt="profile" src="https://github.com/user-attachments/assets/6a3cf68b-248a-44e1-9980-a76f4b136518" />
 <img width="1440" height="2560" alt="flourish-home" src="https://github.com/user-attachments/assets/85f68b46-e4da-4515-a40c-9f1df08cd974" />
