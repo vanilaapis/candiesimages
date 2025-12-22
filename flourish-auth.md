@@ -1,3 +1,17 @@
+## boilerplate 
+
+
+
+
+
+<img width="1195" height="631" alt="image" src="https://github.com/user-attachments/assets/c6371ed3-42ac-4f56-8523-5e9425868564" />
+
+
+
+--- 
+
+
+
 <img width="1290" height="2796" alt="welcome" src="https://github.com/user-attachments/assets/94571c48-7ea2-40ff-809f-498151ab89fb" />
 <img width="1290" height="2796" alt="sign-up" src="https://github.com/user-attachments/assets/2a83e95c-f494-4e25-a885-c3ef8ebed8fa" />
 <img width="1290" height="2796" alt="sign-in" src="https://github.com/user-attachments/assets/9499e289-ab88-42ae-8ce0-45f693ba4440" />
