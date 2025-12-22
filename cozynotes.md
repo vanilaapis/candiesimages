@@ -3,6 +3,7 @@
 <img width="1143" height="617" alt="image" src="https://github.com/user-attachments/assets/7b29a592-bf26-4be7-ade3-89f711fc879b" />
 
 
+<img width="2268" height="1473" alt="cozynotes" src="https://github.com/user-attachments/assets/9cf9e0b9-e461-439c-9998-f00bab870edc" />
 
 
 ---
