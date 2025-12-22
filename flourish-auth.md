@@ -6,6 +6,7 @@
 
 <img width="1219" height="633" alt="image" src="https://github.com/user-attachments/assets/76f5adf3-b3b5-4dd1-be76-a30738a025d3" />
 
+<img width="2268" height="1473" alt="flourish-auth" src="https://github.com/user-attachments/assets/c115c560-da1d-4bc0-a409-77d52bd84e06" />
 
 
 
