@@ -9,6 +9,7 @@
 <img width="2268" height="1473" alt="flourish-auth" src="https://github.com/user-attachments/assets/c115c560-da1d-4bc0-a409-77d52bd84e06" />
 
 
+<img width="1440" height="2560" alt="welcome-screen" src="https://github.com/user-attachments/assets/a3a59ac6-2f78-405a-94d8-23a8c488cd3f" />
 
 --- 
 
