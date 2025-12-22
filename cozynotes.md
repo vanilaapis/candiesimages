@@ -1,4 +1,10 @@
+## boilerplate creation
 
+<img width="1083" height="641" alt="image" src="https://github.com/user-attachments/assets/e19b137c-fd6d-4091-828d-baf9174b3682" />
+
+
+
+---
 
 <img width="740" height="740" alt="dot-grid-background" src="https://github.com/user-attachments/assets/5f19ea79-c444-4343-831e-9afbb361a805" />
 <img width="1440" height="2560" alt="settings" src="https://github.com/user-attachments/assets/1290ab41-e684-4b6a-90ef-c164d34846ee" />
