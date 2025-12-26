@@ -1,6 +1,7 @@
 ## boilerplate 
 
 
+<img width="1358" height="797" alt="image" src="https://github.com/user-attachments/assets/05115033-f8f0-4684-ad75-14959b638944" />
 
 
 
