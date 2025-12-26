@@ -1,5 +1,9 @@
 ## boilerplate creation
 
+
+
+<img width="1438" height="824" alt="image" src="https://github.com/user-attachments/assets/1afc4e1b-a0d5-4e68-b398-b0dcaa2369e6" />
+
 <img width="1143" height="617" alt="image" src="https://github.com/user-attachments/assets/7b29a592-bf26-4be7-ade3-89f711fc879b" />
 
 
