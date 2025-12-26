@@ -1,5 +1,8 @@
 ## thumbnail 
 
+<img width="1553" height="907" alt="image" src="https://github.com/user-attachments/assets/651b57fd-c042-4c9e-a254-235268c1c9bb" />
+
+
 <img width="1248" height="631" alt="image" src="https://github.com/user-attachments/assets/bfe2e1b6-add6-4abf-be08-23af52b2819a" />
 
 
