@@ -29,3 +29,19 @@
 <img width="1431" height="2946" alt="gray-dotted-grid-background" src="https://github.com/user-attachments/assets/3f020771-9a9e-4ff1-afb4-79c5b360425f" />
 
 <img width="1431" height="2946" alt="nice-dotted-grid-background" src="https://github.com/user-attachments/assets/ce07d991-098a-4e14-a759-ecbb0c159b6b" />
+
+
+## html
+
+<img width="1719" height="1235" alt="acceptance-criteria" src="https://github.com/user-attachments/assets/c4cd868d-13be-4e84-9587-13052f6fc795" />
+
+<img width="2574" height="2543" alt="build-learn" src="https://github.com/user-attachments/assets/9cc23bab-d388-48ac-b27e-c312ff0ac849" />
+
+<img width="2574" height="4005" alt="guide" src="https://github.com/user-attachments/assets/412e46f6-c973-460f-aae7-4b6b72e78a52" />
+
+
+
+<img width="2505" height="1365" alt="cozy-notes-showcase" src="https://github.com/user-attachments/assets/5d2e8156-69cb-45e5-97b4-0fdb77d18359" />
+
+
+<img width="2505" height="1473" alt="cozynotes-home-landing-page" src="https://github.com/user-attachments/assets/2a1f9e11-7c05-4c25-a420-245a524fc7f5" />
